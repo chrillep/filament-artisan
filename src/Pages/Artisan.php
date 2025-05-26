@@ -17,6 +17,7 @@ use Filament\Tables\Contracts\HasTable;
 use Filament\Tables\Filters\SelectFilter;
 use Filament\Tables\Table;
 use Illuminate\Support\Facades\App;
+use Illuminate\Support\HtmlString;
 use Symfony\Component\Console\Output\BufferedOutput;
 use TomatoPHP\FilamentArtisan\Http\Controllers\GuiController;
 use TomatoPHP\FilamentArtisan\Models\Command;
